@@ -44,6 +44,11 @@
     ]
   },
   "devDependencies": {
-    "json-server": "^0.16.3"
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.9",
+    "json-server": "^0.16.3",
+    "typescript": "^4.2.4"
   }
 }
